@@ -1,0 +1,7 @@
+{
+	"region": 1,
+	"brand": 1,
+	"username": "john.doe@example.com",
+	"password": "Secret-password",
+	"pin": "1234"
+}
