@@ -1,0 +1,1768 @@
+{
+    "car0": [
+        {
+            "time": 1710103010,
+            "range": 302,
+            "soc": 71,
+            "odometer": 47347.8
+        },
+        {
+            "time": 1710103010,
+            "range": 302,
+            "soc": 71,
+            "odometer": 47347.8
+        },
+        {
+            "time": 1710103010,
+            "range": 302,
+            "soc": 71,
+            "odometer": 47347.8
+        },
+        {
+            "time": 1710116604,
+            "range": 301,
+            "soc": 71,
+            "odometer": 47347.8
+        },
+        {
+            "time": 1710116604,
+            "range": 301,
+            "soc": 71,
+            "odometer": 47347.8
+        },
+        {
+            "time": 1710139228,
+            "range": 296,
+            "soc": 70,
+            "odometer": 47347.8
+        },
+        {
+            "time": 1710139228,
+            "range": 296,
+            "soc": 70,
+            "odometer": 47347.8
+        },
+        {
+            "time": 1710161817,
+            "range": 295,
+            "soc": 70,
+            "odometer": 47347.8
+        },
+        {
+            "time": 1710161817,
+            "range": 295,
+            "soc": 70,
+            "odometer": 47347.8
+        },
+        {
+            "time": 1710184432,
+            "range": 295,
+            "soc": 70,
+            "odometer": 47347.8
+        },
+        {
+            "time": 1710184432,
+            "range": 295,
+            "soc": 70,
+            "odometer": 47347.8
+        },
+        {
+            "time": 1710206187,
+            "range": 294,
+            "soc": 70,
+            "odometer": 47347.8
+        },
+        {
+            "time": 1710206187,
+            "range": 294,
+            "soc": 70,
+            "odometer": 47347.8
+        },
+        {
+            "time": 1710228785,
+            "range": 294,
+            "soc": 70,
+            "odometer": 47347.8
+        },
+        {
+            "time": 1710228785,
+            "range": 294,
+            "soc": 70,
+            "odometer": 47347.8
+        },
+        {
+            "time": 1710230905,
+            "range": 198,
+            "soc": 66,
+            "odometer": 47363.7
+        },
+        {
+            "time": 1710230905,
+            "range": 198,
+            "soc": 66,
+            "odometer": 47363.7
+        },
+        {
+            "time": 1710230905,
+            "range": 198,
+            "soc": 66,
+            "odometer": 47363.7
+        },
+        {
+            "time": 1710230905,
+            "range": 198,
+            "soc": 66,
+            "odometer": 47363.7
+        },
+        {
+            "time": 1710237780,
+            "range": 191,
+            "soc": 65,
+            "odometer": 47363.7
+        },
+        {
+            "time": 1710237780,
+            "range": 191,
+            "soc": 65,
+            "odometer": 47363.7
+        },
+        {
+            "time": 1710239833,
+            "range": 191,
+            "soc": 65,
+            "odometer": 47363.7
+        },
+        {
+            "time": 1710239833,
+            "range": 191,
+            "soc": 65,
+            "odometer": 47363.7
+        },
+        {
+            "time": 1710241153,
+            "range": 188,
+            "soc": 64,
+            "odometer": 47363.7
+        },
+        {
+            "time": 1710241153,
+            "range": 188,
+            "soc": 64,
+            "odometer": 47363.7
+        },
+        {
+            "time": 1710241153,
+            "range": 188,
+            "soc": 64,
+            "odometer": 47363.7
+        },
+        {
+            "time": 1710241153,
+            "range": 188,
+            "soc": 64,
+            "odometer": 47363.7
+        },
+        {
+            "time": 1710246800,
+            "range": 183,
+            "soc": 62,
+            "odometer": 47363.7
+        },
+        {
+            "time": 1710246800,
+            "range": 183,
+            "soc": 62,
+            "odometer": 47363.7
+        },
+        {
+            "time": 1710250078,
+            "range": 241,
+            "soc": 60,
+            "odometer": 47368.1
+        },
+        {
+            "time": 1710250078,
+            "range": 241,
+            "soc": 60,
+            "odometer": 47368.1
+        },
+        {
+            "time": 1710251388,
+            "range": 249,
+            "soc": 60,
+            "odometer": 47368.1
+        },
+        {
+            "time": 1710251388,
+            "range": 249,
+            "soc": 60,
+            "odometer": 47368.1
+        },
+        {
+            "time": 1710253074,
+            "range": 216,
+            "soc": 60,
+            "odometer": 47368.2
+        },
+        {
+            "time": 1710253074,
+            "range": 216,
+            "soc": 60,
+            "odometer": 47368.2
+        },
+        {
+            "time": 1710254716,
+            "range": 165,
+            "soc": 60,
+            "odometer": 47368.3
+        },
+        {
+            "time": 1710254716,
+            "range": 165,
+            "soc": 60,
+            "odometer": 47368.3
+        },
+        {
+            "time": 1710273977,
+            "range": 240,
+            "soc": 58,
+            "odometer": 47368.3
+        },
+        {
+            "time": 1710273977,
+            "range": 240,
+            "soc": 58,
+            "odometer": 47368.3
+        },
+        {
+            "time": 1710296261,
+            "range": 241,
+            "soc": 58,
+            "odometer": 47368.3
+        },
+        {
+            "time": 1710296261,
+            "range": 241,
+            "soc": 58,
+            "odometer": 47368.3
+        },
+        {
+            "time": 1710318886,
+            "range": 241,
+            "soc": 58,
+            "odometer": 47368.3
+        },
+        {
+            "time": 1710318886,
+            "range": 241,
+            "soc": 58,
+            "odometer": 47368.4
+        },
+        {
+            "time": 1710320064,
+            "range": 224,
+            "soc": 58,
+            "odometer": 47368.4
+        },
+        {
+            "time": 1710320064,
+            "range": 224,
+            "soc": 58,
+            "odometer": 47368.4
+        },
+        {
+            "time": 1710320064,
+            "range": 224,
+            "soc": 58,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710324127,
+            "range": 220,
+            "soc": 57,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710324127,
+            "range": 220,
+            "soc": 57,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710341502,
+            "range": 234,
+            "soc": 57,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710341502,
+            "range": 234,
+            "soc": 57,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710344959,
+            "range": 152,
+            "soc": 57,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710344959,
+            "range": 152,
+            "soc": 57,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710375632,
+            "range": 226,
+            "soc": 55,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710375632,
+            "range": 226,
+            "soc": 55,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710397265,
+            "range": 226,
+            "soc": 55,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710397265,
+            "range": 226,
+            "soc": 55,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710419876,
+            "range": 226,
+            "soc": 55,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710419876,
+            "range": 226,
+            "soc": 55,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710442455,
+            "range": 226,
+            "soc": 55,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710442455,
+            "range": 226,
+            "soc": 55,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710464715,
+            "range": 225,
+            "soc": 55,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710464715,
+            "range": 225,
+            "soc": 55,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710487201,
+            "range": 225,
+            "soc": 55,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710487201,
+            "range": 225,
+            "soc": 55,
+            "odometer": 47368.5
+        },
+        {
+            "time": 1710487201,
+            "range": 225,
+            "soc": 55,
+            "odometer": 47368.7
+        },
+        {
+            "time": 1710490932,
+            "range": 143,
+            "soc": 55,
+            "odometer": 47368.7
+        },
+        {
+            "time": 1710490932,
+            "range": 143,
+            "soc": 55,
+            "odometer": 47368.7
+        },
+        {
+            "time": 1710490932,
+            "range": 143,
+            "soc": 55,
+            "odometer": 47368.7
+        },
+        {
+            "time": 1710494930,
+            "range": 140,
+            "soc": 53,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710494930,
+            "range": 140,
+            "soc": 53,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710509716,
+            "range": 219,
+            "soc": 53,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710509716,
+            "range": 219,
+            "soc": 53,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710532239,
+            "range": 212,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710532239,
+            "range": 212,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710554542,
+            "range": 212,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710554542,
+            "range": 212,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710577040,
+            "range": 212,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710577040,
+            "range": 212,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710599520,
+            "range": 211,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710599520,
+            "range": 211,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710622049,
+            "range": 211,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710622049,
+            "range": 211,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710643708,
+            "range": 211,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710643708,
+            "range": 211,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710666190,
+            "range": 210,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710666190,
+            "range": 210,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710674855,
+            "range": 210,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710674855,
+            "range": 210,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710688681,
+            "range": 211,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710688681,
+            "range": 211,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710721147,
+            "range": 211,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710721147,
+            "range": 211,
+            "soc": 52,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710743642,
+            "range": 210,
+            "soc": 51,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710743642,
+            "range": 210,
+            "soc": 51,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710756951,
+            "range": 210,
+            "soc": 51,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710756951,
+            "range": 210,
+            "soc": 51,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710764678,
+            "range": 210,
+            "soc": 51,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710764678,
+            "range": 210,
+            "soc": 51,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710766154,
+            "range": 210,
+            "soc": 51,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710766154,
+            "range": 210,
+            "soc": 51,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710772693,
+            "range": 131,
+            "soc": 51,
+            "odometer": 47368.9
+        },
+        {
+            "time": 1710773274,
+            "range": 129,
+            "soc": 51,
+            "odometer": 47369
+        },
+        {
+            "time": 1710773274,
+            "range": 129,
+            "soc": 51,
+            "odometer": 47369
+        },
+        {
+            "time": 1710773274,
+            "range": 129,
+            "soc": 51,
+            "odometer": 47369
+        },
+        {
+            "time": 1710776701,
+            "range": 208,
+            "soc": 51,
+            "odometer": 47369
+        },
+        {
+            "time": 1710776701,
+            "range": 208,
+            "soc": 51,
+            "odometer": 47369
+        },
+        {
+            "time": 1710776701,
+            "range": 208,
+            "soc": 51,
+            "odometer": 47369.1
+        },
+        {
+            "time": 1710778371,
+            "range": 126,
+            "soc": 51,
+            "odometer": 47369.1
+        },
+        {
+            "time": 1710779454,
+            "range": 123,
+            "soc": 51,
+            "odometer": 47369.2
+        },
+        {
+            "time": 1710779454,
+            "range": 123,
+            "soc": 51,
+            "odometer": 47369.2
+        },
+        {
+            "time": 1710779454,
+            "range": 123,
+            "soc": 51,
+            "odometer": 47385.7
+        },
+        {
+            "time": 1710781898,
+            "range": 203,
+            "soc": 50,
+            "odometer": 47385.7
+        },
+        {
+            "time": 1710781898,
+            "range": 203,
+            "soc": 50,
+            "odometer": 47385.7
+        },
+        {
+            "time": 1710784649,
+            "range": 247,
+            "soc": 60,
+            "odometer": 47385.7
+        },
+        {
+            "time": 1710802963,
+            "range": 431,
+            "soc": 100,
+            "odometer": 47385.7
+        },
+        {
+            "time": 1710807029,
+            "range": 431,
+            "soc": 100,
+            "odometer": 47385.7
+        },
+        {
+            "time": 1710807029,
+            "range": 431,
+            "soc": 100,
+            "odometer": 47385.7
+        },
+        {
+            "time": 1710826204,
+            "range": 431,
+            "soc": 100,
+            "odometer": 47385.7
+        },
+        {
+            "time": 1710829543,
+            "range": 431,
+            "soc": 100,
+            "odometer": 47385.7
+        },
+        {
+            "time": 1710829543,
+            "range": 431,
+            "soc": 100,
+            "odometer": 47385.7
+        },
+        {
+            "time": 1710842776,
+            "range": 431,
+            "soc": 100,
+            "odometer": 47385.7
+        },
+        {
+            "time": 1710848957,
+            "range": 270,
+            "soc": 66,
+            "odometer": 47533.6
+        },
+        {
+            "time": 1710852061,
+            "range": 180,
+            "soc": 46,
+            "odometer": 47533.6
+        },
+        {
+            "time": 1710855714,
+            "range": 347,
+            "soc": 84,
+            "odometer": 47673.7
+        },
+        {
+            "time": 1710855714,
+            "range": 347,
+            "soc": 84,
+            "odometer": 47673.7
+        },
+        {
+            "time": 1710855714,
+            "range": 347,
+            "soc": 84,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1710864088,
+            "range": 127,
+            "soc": 43,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1710864088,
+            "range": 127,
+            "soc": 43,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1710873790,
+            "range": 170,
+            "soc": 43,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1710873790,
+            "range": 170,
+            "soc": 43,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1710896272,
+            "range": 169,
+            "soc": 43,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1710896272,
+            "range": 169,
+            "soc": 43,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1710918794,
+            "range": 158,
+            "soc": 40,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1710923672,
+            "range": 158,
+            "soc": 40,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1710923672,
+            "range": 158,
+            "soc": 40,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1710941287,
+            "range": 158,
+            "soc": 40,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1710941287,
+            "range": 158,
+            "soc": 40,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1710963803,
+            "range": 157,
+            "soc": 40,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1710963803,
+            "range": 157,
+            "soc": 40,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1710986309,
+            "range": 157,
+            "soc": 40,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1710986309,
+            "range": 157,
+            "soc": 40,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1711008834,
+            "range": 157,
+            "soc": 40,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1711008834,
+            "range": 157,
+            "soc": 40,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1711031339,
+            "range": 157,
+            "soc": 40,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1711031339,
+            "range": 157,
+            "soc": 40,
+            "odometer": 47858.1
+        },
+        {
+            "time": 1711031339,
+            "range": 157,
+            "soc": 40,
+            "odometer": 47900
+        },
+        {
+            "time": 1711045715,
+            "range": 382,
+            "soc": 92,
+            "odometer": 47900
+        },
+        {
+            "time": 1711050539,
+            "range": 317,
+            "soc": 81,
+            "odometer": 48037.5
+        },
+        {
+            "time": 1711053537,
+            "range": 193,
+            "soc": 64,
+            "odometer": 48037.5
+        },
+        {
+            "time": 1711053537,
+            "range": 193,
+            "soc": 64,
+            "odometer": 48037.5
+        },
+        {
+            "time": 1711060952,
+            "range": 31,
+            "soc": 10,
+            "odometer": 48314.1
+        },
+        {
+            "time": 1711063555,
+            "range": 65,
+            "soc": 20,
+            "odometer": 48314.1
+        },
+        {
+            "time": 1711068798,
+            "range": 143,
+            "soc": 40,
+            "odometer": 48314.1
+        },
+        {
+            "time": 1711071457,
+            "range": 184,
+            "soc": 50,
+            "odometer": 48314.1
+        },
+        {
+            "time": 1711074111,
+            "range": 223,
+            "soc": 60,
+            "odometer": 48314.1
+        },
+        {
+            "time": 1711079474,
+            "range": 304,
+            "soc": 80,
+            "odometer": 48314.1
+        },
+        {
+            "time": 1711081997,
+            "range": 345,
+            "soc": 90,
+            "odometer": 48314.1
+        },
+        {
+            "time": 1711084337,
+            "range": 380,
+            "soc": 98,
+            "odometer": 48314.1
+        },
+        {
+            "time": 1711084337,
+            "range": 380,
+            "soc": 98,
+            "odometer": 48314.1
+        },
+        {
+            "time": 1711092217,
+            "range": 0,
+            "soc": 100,
+            "odometer": 48314.1
+        },
+        {
+            "time": 1711097680,
+            "range": 388,
+            "soc": 100,
+            "odometer": 48314.1
+        },
+        {
+            "time": 1711105034,
+            "range": 279,
+            "soc": 98,
+            "odometer": 48319.3
+        },
+        {
+            "time": 1711108198,
+            "range": 292,
+            "soc": 96,
+            "odometer": 48325.2
+        },
+        {
+            "time": 1711110322,
+            "range": 288,
+            "soc": 96,
+            "odometer": 48327
+        },
+        {
+            "time": 1711110322,
+            "range": 288,
+            "soc": 96,
+            "odometer": 48327
+        },
+        {
+            "time": 1711120164,
+            "range": 371,
+            "soc": 96,
+            "odometer": 48327
+        },
+        {
+            "time": 1711120164,
+            "range": 371,
+            "soc": 96,
+            "odometer": 48327
+        },
+        {
+            "time": 1711142671,
+            "range": 371,
+            "soc": 96,
+            "odometer": 48327
+        },
+        {
+            "time": 1711142671,
+            "range": 371,
+            "soc": 96,
+            "odometer": 48327
+        },
+        {
+            "time": 1711165183,
+            "range": 370,
+            "soc": 96,
+            "odometer": 48327
+        },
+        {
+            "time": 1711165183,
+            "range": 370,
+            "soc": 96,
+            "odometer": 48327
+        },
+        {
+            "time": 1711187699,
+            "range": 369,
+            "soc": 96,
+            "odometer": 48327
+        },
+        {
+            "time": 1711187699,
+            "range": 369,
+            "soc": 96,
+            "odometer": 48327
+        },
+        {
+            "time": 1711193885,
+            "range": 274,
+            "soc": 95,
+            "odometer": 48331.5
+        },
+        {
+            "time": 1711193885,
+            "range": 274,
+            "soc": 95,
+            "odometer": 48331.5
+        },
+        {
+            "time": 1711205877,
+            "range": 227,
+            "soc": 75,
+            "odometer": 48413.1
+        },
+        {
+            "time": 1711205877,
+            "range": 227,
+            "soc": 75,
+            "odometer": 48413.1
+        },
+        {
+            "time": 1711210238,
+            "range": 290,
+            "soc": 75,
+            "odometer": 48413.1
+        },
+        {
+            "time": 1711210238,
+            "range": 290,
+            "soc": 75,
+            "odometer": 48413.1
+        },
+        {
+            "time": 1711219153,
+            "range": 225,
+            "soc": 60,
+            "odometer": 48494.5
+        },
+        {
+            "time": 1711221953,
+            "range": 266,
+            "soc": 70,
+            "odometer": 48494.5
+        },
+        {
+            "time": 1711227569,
+            "range": 350,
+            "soc": 90,
+            "odometer": 48494.5
+        },
+        {
+            "time": 1711229906,
+            "range": 385,
+            "soc": 98,
+            "odometer": 48494.5
+        },
+        {
+            "time": 1711231867,
+            "range": 394,
+            "soc": 100,
+            "odometer": 48494.5
+        },
+        {
+            "time": 1711237899,
+            "range": 394,
+            "soc": 100,
+            "odometer": 48494.5
+        },
+        {
+            "time": 1711237899,
+            "range": 394,
+            "soc": 100,
+            "odometer": 48494.5
+        },
+        {
+            "time": 1711253519,
+            "range": 393,
+            "soc": 100,
+            "odometer": 48494.5
+        },
+        {
+            "time": 1711253519,
+            "range": 393,
+            "soc": 100,
+            "odometer": 48494.5
+        },
+        {
+            "time": 1711276009,
+            "range": 374,
+            "soc": 95,
+            "odometer": 48511.2
+        },
+        {
+            "time": 1711279952,
+            "range": 243,
+            "soc": 80,
+            "odometer": 48579.2
+        },
+        {
+            "time": 1711279952,
+            "range": 243,
+            "soc": 80,
+            "odometer": 48579.2
+        },
+        {
+            "time": 1711299280,
+            "range": 174,
+            "soc": 58,
+            "odometer": 48650.9
+        },
+        {
+            "time": 1711299280,
+            "range": 174,
+            "soc": 58,
+            "odometer": 48670.1
+        },
+        {
+            "time": 1711304766,
+            "range": 225,
+            "soc": 60,
+            "odometer": 48670.1
+        },
+        {
+            "time": 1711307665,
+            "range": 266,
+            "soc": 70,
+            "odometer": 48670.1
+        },
+        {
+            "time": 1711313370,
+            "range": 351,
+            "soc": 90,
+            "odometer": 48670.1
+        },
+        {
+            "time": 1711313370,
+            "range": 351,
+            "soc": 90,
+            "odometer": 48670.1
+        },
+        {
+            "time": 1711320305,
+            "range": 394,
+            "soc": 100,
+            "odometer": 48670.1
+        },
+        {
+            "time": 1711324084,
+            "range": 394,
+            "soc": 100,
+            "odometer": 48670.1
+        },
+        {
+            "time": 1711324084,
+            "range": 394,
+            "soc": 100,
+            "odometer": 48670.1
+        },
+        {
+            "time": 1711342848,
+            "range": 393,
+            "soc": 100,
+            "odometer": 48670.1
+        },
+        {
+            "time": 1711342848,
+            "range": 393,
+            "soc": 100,
+            "odometer": 48670.1
+        },
+        {
+            "time": 1711365351,
+            "range": 393,
+            "soc": 100,
+            "odometer": 48670.1
+        },
+        {
+            "time": 1711365351,
+            "range": 393,
+            "soc": 100,
+            "odometer": 48670.1
+        },
+        {
+            "time": 1711410320,
+            "range": 394,
+            "soc": 100,
+            "odometer": 48670.1
+        },
+        {
+            "time": 1711410320,
+            "range": 394,
+            "soc": 100,
+            "odometer": 48670.1
+        },
+        {
+            "time": 1711432037,
+            "range": 394,
+            "soc": 100,
+            "odometer": 48670.1
+        },
+        {
+            "time": 1711432037,
+            "range": 394,
+            "soc": 100,
+            "odometer": 48670.1
+        },
+        {
+            "time": 1711471680,
+            "range": 278,
+            "soc": 96,
+            "odometer": 48690.5
+        },
+        {
+            "time": 1711471680,
+            "range": 278,
+            "soc": 96,
+            "odometer": 48690.5
+        },
+        {
+            "time": 1711477062,
+            "range": 361,
+            "soc": 92,
+            "odometer": 48711.3
+        },
+        {
+            "time": 1711477062,
+            "range": 361,
+            "soc": 92,
+            "odometer": 48711.3
+        },
+        {
+            "time": 1711523070,
+            "range": 367,
+            "soc": 93,
+            "odometer": 48711.3
+        },
+        {
+            "time": 1711523070,
+            "range": 367,
+            "soc": 93,
+            "odometer": 48711.3
+        },
+        {
+            "time": 1711545125,
+            "range": 367,
+            "soc": 93,
+            "odometer": 48711.3
+        },
+        {
+            "time": 1711545125,
+            "range": 367,
+            "soc": 93,
+            "odometer": 48711.3
+        },
+        {
+            "time": 1711590129,
+            "range": 367,
+            "soc": 93,
+            "odometer": 48711.3
+        },
+        {
+            "time": 1711590129,
+            "range": 367,
+            "soc": 93,
+            "odometer": 48711.3
+        },
+        {
+            "time": 1711612685,
+            "range": 366,
+            "soc": 93,
+            "odometer": 48711.3
+        },
+        {
+            "time": 1711615174,
+            "range": 253,
+            "soc": 92,
+            "odometer": 48714.6
+        },
+        {
+            "time": 1711617132,
+            "range": 238,
+            "soc": 87,
+            "odometer": 48737.7
+        },
+        {
+            "time": 1711617132,
+            "range": 238,
+            "soc": 87,
+            "odometer": 48737.7
+        },
+        {
+            "time": 1711635188,
+            "range": 348,
+            "soc": 87,
+            "odometer": 48737.7
+        },
+        {
+            "time": 1711648525,
+            "range": 332,
+            "soc": 83,
+            "odometer": 48761.6
+        },
+        {
+            "time": 1711648525,
+            "range": 332,
+            "soc": 83,
+            "odometer": 48761.6
+        },
+        {
+            "time": 1711657687,
+            "range": 404,
+            "soc": 100,
+            "odometer": 48761.6
+        },
+        {
+            "time": 1711657687,
+            "range": 404,
+            "soc": 100,
+            "odometer": 48761.6
+        },
+        {
+            "time": 1711679412,
+            "range": 404,
+            "soc": 100,
+            "odometer": 48761.6
+        },
+        {
+            "time": 1711679412,
+            "range": 404,
+            "soc": 100,
+            "odometer": 48761.6
+        },
+        {
+            "time": 1711701389,
+            "range": 404,
+            "soc": 100,
+            "odometer": 48761.6
+        },
+        {
+            "time": 1711701389,
+            "range": 404,
+            "soc": 100,
+            "odometer": 48761.6
+        },
+        {
+            "time": 1711723902,
+            "range": 275,
+            "soc": 94,
+            "odometer": 48761.6
+        },
+        {
+            "time": 1711723902,
+            "range": 275,
+            "soc": 94,
+            "odometer": 48761.6
+        },
+        {
+            "time": 1711735053,
+            "range": 328,
+            "soc": 80,
+            "odometer": 49052.5
+        },
+        {
+            "time": 1711735593,
+            "range": 382,
+            "soc": 91,
+            "odometer": 49052.5
+        },
+        {
+            "time": 1711735593,
+            "range": 382,
+            "soc": 91,
+            "odometer": 49052.5
+        },
+        {
+            "time": 1711745856,
+            "range": 228,
+            "soc": 73,
+            "odometer": 49273.7
+        },
+        {
+            "time": 1711745856,
+            "range": 228,
+            "soc": 73,
+            "odometer": 49273.7
+        },
+        {
+            "time": 1711752663,
+            "range": 242,
+            "soc": 79,
+            "odometer": 49488.9
+        },
+        {
+            "time": 1711752663,
+            "range": 242,
+            "soc": 79,
+            "odometer": 49488.9
+        },
+        {
+            "time": 1711757832,
+            "range": 150,
+            "soc": 53,
+            "odometer": 49595.8
+        },
+        {
+            "time": 1711757832,
+            "range": 150,
+            "soc": 53,
+            "odometer": 49595.8
+        },
+        {
+            "time": 1711767589,
+            "range": 188,
+            "soc": 53,
+            "odometer": 49595.8
+        },
+        {
+            "time": 1711767589,
+            "range": 188,
+            "soc": 53,
+            "odometer": 49595.8
+        },
+        {
+            "time": 1711789048,
+            "range": 188,
+            "soc": 53,
+            "odometer": 49595.8
+        },
+        {
+            "time": 1711790106,
+            "range": 187,
+            "soc": 53,
+            "odometer": 49595.8
+        },
+        {
+            "time": 1711790106,
+            "range": 187,
+            "soc": 53,
+            "odometer": 49595.8
+        },
+        {
+            "time": 1711810237,
+            "range": 129,
+            "soc": 46,
+            "odometer": 49623
+        },
+        {
+            "time": 1711812602,
+            "range": 165,
+            "soc": 46,
+            "odometer": 49623
+        },
+        {
+            "time": 1711816878,
+            "range": 153,
+            "soc": 43,
+            "odometer": 49639.5
+        },
+        {
+            "time": 1711820166,
+            "range": 255,
+            "soc": 90,
+            "odometer": 49655.9
+        },
+        {
+            "time": 1711820166,
+            "range": 255,
+            "soc": 90,
+            "odometer": 49655.9
+        },
+        {
+            "time": 1711834578,
+            "range": 338,
+            "soc": 90,
+            "odometer": 49655.9
+        },
+        {
+            "time": 1711838178,
+            "range": 338,
+            "soc": 90,
+            "odometer": 49655.9
+        },
+        {
+            "time": 1711864250,
+            "range": 336,
+            "soc": 90,
+            "odometer": 49655.9
+        },
+        {
+            "time": 1711864250,
+            "range": 336,
+            "soc": 90,
+            "odometer": 49655.9
+        },
+        {
+            "time": 1711883167,
+            "range": 336,
+            "soc": 90,
+            "odometer": 49655.9
+        },
+        {
+            "time": 1711883167,
+            "range": 336,
+            "soc": 90,
+            "odometer": 49655.9
+        },
+        {
+            "time": 1711884948,
+            "range": 336,
+            "soc": 90,
+            "odometer": 49655.9
+        },
+        {
+            "time": 1711884948,
+            "range": 336,
+            "soc": 90,
+            "odometer": 49655.9
+        },
+        {
+            "time": 1711905661,
+            "range": 345,
+            "soc": 92,
+            "odometer": 49655.9
+        },
+        {
+            "time": 1711905661,
+            "range": 345,
+            "soc": 92,
+            "odometer": 49655.9
+        },
+        {
+            "time": 1711928152,
+            "range": 344,
+            "soc": 92,
+            "odometer": 49655.9
+        },
+        {
+            "time": 1711928152,
+            "range": 344,
+            "soc": 92,
+            "odometer": 49655.9
+        },
+        {
+            "time": 1711950654,
+            "range": 344,
+            "soc": 92,
+            "odometer": 49655.9
+        },
+        {
+            "time": 1711950654,
+            "range": 344,
+            "soc": 92,
+            "odometer": 49655.9
+        },
+        {
+            "time": 1711984919,
+            "range": 189,
+            "soc": 72,
+            "odometer": 49744.6
+        },
+        {
+            "time": 1711984919,
+            "range": 189,
+            "soc": 72,
+            "odometer": 49744.6
+        },
+        {
+            "time": 1711995677,
+            "range": 266,
+            "soc": 72,
+            "odometer": 49744.6
+        },
+        {
+            "time": 1711995677,
+            "range": 266,
+            "soc": 72,
+            "odometer": 49744.6
+        },
+        {
+            "time": 1712018175,
+            "range": 259,
+            "soc": 71,
+            "odometer": 49744.6
+        },
+        {
+            "time": 1712018175,
+            "range": 259,
+            "soc": 71,
+            "odometer": 49744.6
+        },
+        {
+            "time": 1712040674,
+            "range": 259,
+            "soc": 71,
+            "odometer": 49744.6
+        },
+        {
+            "time": 1712040674,
+            "range": 259,
+            "soc": 71,
+            "odometer": 49744.6
+        },
+        {
+            "time": 1712063173,
+            "range": 258,
+            "soc": 71,
+            "odometer": 49744.6
+        },
+        {
+            "time": 1712063173,
+            "range": 258,
+            "soc": 71,
+            "odometer": 49744.6
+        },
+        {
+            "time": 1712063173,
+            "range": 258,
+            "soc": 71,
+            "odometer": 49759.4
+        },
+        {
+            "time": 1712087969,
+            "range": 182,
+            "soc": 76,
+            "odometer": 49781.3
+        },
+        {
+            "time": 1712087969,
+            "range": 182,
+            "soc": 76,
+            "odometer": 49781.3
+        },
+        {
+            "time": 1712107014,
+            "range": 281,
+            "soc": 76,
+            "odometer": 49781.3
+        },
+        {
+            "time": 1712107014,
+            "range": 281,
+            "soc": 76,
+            "odometer": 49781.3
+        },
+        {
+            "time": 1712129516,
+            "range": 280,
+            "soc": 76,
+            "odometer": 49781.3
+        },
+        {
+            "time": 1712129516,
+            "range": 280,
+            "soc": 76,
+            "odometer": 49781.3
+        },
+        {
+            "time": 1712152013,
+            "range": 281,
+            "soc": 76,
+            "odometer": 49781.3
+        },
+        {
+            "time": 1712152013,
+            "range": 281,
+            "soc": 76,
+            "odometer": 49781.3
+        },
+        {
+            "time": 1712166331,
+            "range": 268,
+            "soc": 75,
+            "odometer": 49785.2
+        },
+        {
+            "time": 1712167521,
+            "range": 176,
+            "soc": 74,
+            "odometer": 49789.2
+        },
+        {
+            "time": 1712167521,
+            "range": 176,
+            "soc": 74,
+            "odometer": 49789.2
+        },
+        {
+            "time": 1712174494,
+            "range": 271,
+            "soc": 74,
+            "odometer": 49789.2
+        },
+        {
+            "time": 1712174494,
+            "range": 271,
+            "soc": 74,
+            "odometer": 49789.2
+        },
+        {
+            "time": 1712197024,
+            "range": 271,
+            "soc": 74,
+            "odometer": 49789.2
+        },
+        {
+            "time": 1712197024,
+            "range": 271,
+            "soc": 74,
+            "odometer": 49789.2
+        },
+        {
+            "time": 1712219534,
+            "range": 271,
+            "soc": 74,
+            "odometer": 49789.2
+        },
+        {
+            "time": 1712242053,
+            "range": 270,
+            "soc": 73,
+            "odometer": 49789.2
+        }
+    ]
+}
