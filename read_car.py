@@ -35,6 +35,9 @@ def main():
         json_file = config['relevantjsonfile']
     else:
         raise ValueError('At least one of the following is required: fulljsonfile, relevantjsonfile')
+
+    json_file_tmp = f'{json_file}.tmp'
+
     try:
         with open(json_file, 'r') as f:
             json_file_content = json.load(f)
@@ -66,15 +69,15 @@ def main():
                 json_file_content[car][-1] = car_data_json
 
     if 'fulljsonfile' in config.keys():
-        with open(config['fulljsonfile'], "w") as f:
+        with open(json_file_tmp, "w") as f:
             json.dump(json_file_content, f)
 
     # Store only relevant data in a new json file
     if 'relevantjsonfile' in config.keys():
         useFullJsonFile = True
-        if os.path.isfile(config['relevantjsonfile']):
+        if os.path.isfile(json_file):
             try:
-                with open(config['relevantjsonfile'], 'r') as f:
+                with open(json_file, 'r') as f:
                     relevantjsondata = json.load(f)
                     useFullJsonFile = False
             except ValueError:
@@ -96,8 +99,15 @@ def main():
                 if relevant_entry not in relevant_json_file_content[f'car{index}']:
                     relevant_json_file_content[f'car{index}'].append(relevant_entry)
 
-        with open(config['relevantjsonfile'], "w") as f:
+        with open(json_file_tmp, "w") as f:
             json.dump(relevant_json_file_content, f)
+
+    # Check if new json file is bigger than the old one and replace the old one
+    if os.path.isfile(json_file):
+        if os.path.getsize(json_file) < os.path.getsize(json_file_tmp):
+            os.replace(json_file_tmp, json_file)
+    else:
+        os.replace(json_file_tmp, json_file)
 
     # Calculate km driven per time period
     if 'kmperperiodjsonfile' in config.keys() and 'relevantjsonfile' in config.keys():
